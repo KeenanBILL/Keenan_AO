@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+p{
+    font-family: 'Optien', sans-serif;
+    color: #FBFCD4;
+}
+
+h1, h3{
+    font-family: 'Optien', sans-serif;
+    color: #FBFCD4;
+}
+
+.navbar{
+    margin: 20px;
+    padding: 20px;
+    border-radius: 60px;
+    background-color: #FBFCD4;
+}
+
+.navbar-brand{
+    color: #151515;
+    font-weight: 600;
+    font-family: 'Optien', sans-serif;
+}
+
+.nav-item a{
+    text-decoration: none;
+    color: #151515;
+    font-weight: 600;
+    text-transform: uppercase;
+    margin-right: 15px;
+    transition: all 0.4s;
+    font-family: 'Optien', sans-serif;
+}
+
+.line{
+    height: 6px;
+    width: 30%;
+    background: #FBC403;
+    display: inline-block;
+}
+
+body{
+    background: #151515;
+}
+
+.btn1{
+    background: #FBC403;
+    color: #151515;
+    border-radius: 45px;
+    border: none;
+    font-weight: 600;
+}
+
+.icon{
+    color: #FBC403;
+}
